@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "TbhzeW9rqQf3VMNbeQ/8+fJAlYcLDI1noTooZ7+ucwQ=",
+  "Source": "MysqlConnectProject",
+  "BasePath": "_content/MysqlConnectProject",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
